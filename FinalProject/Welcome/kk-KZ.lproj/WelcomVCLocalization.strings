@@ -1,0 +1,19 @@
+/* 
+  WelcomVCLocalization.strings
+  FinalProject
+
+  Created by Amina Moldamyrza on 31.05.2021.
+  
+*/
+
+
+"Get Started" = "Бастау";
+"Next" = "Келесі";
+"Show off your cooking skills" = "Ас әзірлеу шеберлігіңізді көрсетіңіз";
+"Take short videos or photos of each recipe step and show other home cooks how to recreate your favorite dishes" = "Әр рецепт бойынша қысқа бейнелер немесе фотосуреттер түсіріңіз және басқа үй аспазшыларына сүйікті тағамдарыңызды қалай қалпына келтіру керектігін көрсетіңіз";
+
+"Find the perfect recipe for you" = "Сіз үшін керемет рецептті табыңыз";
+"Thanks to our search feature, we guarantee you’ll find the perfect recipe for your tastes and nutritional preferences" = "Іздеу мүмкіндігіміздің арқасында сіз өзіңіздің талғамыңыз бен тағамдық талғамыңызға арналған керемет рецепт табуға кепілдік береміз";
+
+"All your cooking needs in one place" = "Сіздің барлық тағамдарыңыз бір жерде қажет";
+"Browse our recipes by difficulty level and preparation time, use our measurement converter to adjust the measurements according to the desired servings." = "Біздің рецепттерімізді қиындық деңгейі мен дайындық уақыты бойынша қарап шығыңыз, өлшеуді түрлендіргіштің көмегімен қажетті өлшемдерге сәйкес өлшемдерді реттеңіз.";

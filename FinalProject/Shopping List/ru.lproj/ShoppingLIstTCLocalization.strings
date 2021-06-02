@@ -1,0 +1,19 @@
+/* 
+  ShoppingLIstTCLocalization.strings
+  FinalProject
+
+  Created by Amina Moldamyrza on 30.05.2021.
+  
+*/
+
+"Pancake" = "Блины";
+"Meal with salmon and zucchini" = "Блюдо с лососем и кабачками";
+"ingredients missing" = "пропущенных рецептов";
+"egg" = "яйцо";
+"milk" = "молоко";
+"sugar" = "сахар";
+"salt" = "соль";
+"flour" = "мука";
+"salmon" = "лосось";
+"salt" = "соль";
+"wine" = "вино";

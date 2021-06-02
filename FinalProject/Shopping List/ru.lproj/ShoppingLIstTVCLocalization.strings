@@ -1,0 +1,18 @@
+/* 
+  ShoppingLIstTVCLocalization.strings
+  FinalProject
+
+  Created by Zhaisan on 31.05.2021.
+  
+*/
+"Pancake" = "Блины";
+"Meal with salmon and zucchini" = "Блюдо с лососью и зукини";
+"ingredients missing" = "использованние рецепты";
+"egg" = "яйцо";
+"milk" = "молоко";
+"sugar" = "сахар";
+"salt" = "солт";
+"flour" = "мука";
+"salmon" = "лосось";
+"salt" = "сол";
+"wine" = "вино";

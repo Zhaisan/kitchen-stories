@@ -1,0 +1,406 @@
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "0rN-76-bI0"; */
+"0rN-76-bI0.title" = "Артқа";
+
+/* Class = "UIButton"; normalTitle = "Medium👍"; ObjectID = "1Uw-I1-Irb"; */
+"1Uw-I1-Irb.normalTitle" = "Орташа👍";
+
+/* Class = "UIButton"; normalTitle = "Choose location 📍"; ObjectID = "1jH-ZK-z0Z"; */
+"1jH-ZK-z0Z.normalTitle" = "Choose location 📍";
+
+/* Class = "UILabel"; text = "COOKING:"; ObjectID = "2gb-kg-EE3"; */
+"2gb-kg-EE3.text" = "Әзірлеу:";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "3Oe-2W-CwC"; */
+"3Oe-2W-CwC.text" = "Бөлісу";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "3Ux-Il-TME"; */
+"3Ux-Il-TME.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "4LR-dQ-0Ww"; */
+"4LR-dQ-0Ww.text" = "*";
+
+/* Class = "UILabel"; text = "Quick Links For You"; ObjectID = "4Om-DY-RE9"; */
+"4Om-DY-RE9.text" = "Жылдам сілтемелер";
+
+/* Class = "UIButton"; normalTitle = "Upload a final photo\nof your dish now\n"; ObjectID = "4Yt-hd-h96"; */
+"4Yt-hd-h96.normalTitle" = "Тағамның суретін\nжүктеп салыңыз\n";
+
+/* Class = "UILabel"; text = "DIFFICULTY:"; ObjectID = "5Ed-Zh-otD"; */
+"5Ed-Zh-otD.text" = "Қиындығы:";
+
+/* Class = "UILabel"; text = "Asian"; ObjectID = "5a6-IF-s71"; */
+"5a6-IF-s71.text" = "Азиялық";
+
+/* Class = "UITabBarItem"; title = "Create"; ObjectID = "5q5-Tj-Cbb"; */
+"5q5-Tj-Cbb.title" = "Ашу";
+
+/* Class = "UILabel"; text = "762"; ObjectID = "60S-0P-cIS"; */
+"60S-0P-cIS.text" = "762";
+
+/* Class = "UIButton"; normalTitle = "type"; ObjectID = "6R8-7r-vze"; */
+"6R8-7r-vze.normalTitle" = "түрі";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "6ix-v9-TV4"; */
+"6ix-v9-TV4.text" = "*";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "71l-eN-TK7"; */
+"71l-eN-TK7.text" = "Label";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "8RI-0O-YDv"; */
+"8RI-0O-YDv.text" = "*";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9kp-BV-nCC"; */
+"9kp-BV-nCC.text" = "Label";
+
+/* Class = "UILabel"; text = "Nothing Says Spring is Here Like These Chinese Wild Garlick Pancackes"; ObjectID = "Akg-gg-Jnx"; */
+"Akg-gg-Jnx.text" = "Көктемде пісірілетін Қытайлық керемет құймақтар";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "B3I-Ci-Ubz"; */
+"B3I-Ci-Ubz.text" = "Аты";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "B4I-ie-T1M"; */
+"B4I-ie-T1M.title" = "Профиль";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "B8K-tL-tdB"; */
+"B8K-tL-tdB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bla-T2-k3a"; */
+"Bla-T2-k3a.text" = "Label";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "ECw-ew-CTP"; */
+"ECw-ew-CTP.text" = "*";
+
+/* Class = "UILabel"; text = "Quick"; ObjectID = "Etm-TD-7k9"; */
+"Etm-TD-7k9.text" = "Жылдам";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FqI-1d-9Zr"; */
+"FqI-1d-9Zr.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Easy🤞"; ObjectID = "GR4-aj-WCw"; */
+"GR4-aj-WCw.normalTitle" = "Оңай🤞";
+
+/* Class = "UILabel"; text = "198"; ObjectID = "Go5-N2-JgT"; */
+"Go5-N2-JgT.text" = "198";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "HMg-hI-0iJ"; */
+"HMg-hI-0iJ.normalTitle" = "Тіркелу";
+
+/* Class = "UILabel"; text = "How long does the dish need to\nbake for?\n"; ObjectID = "Hal-9m-qK7"; */
+"Hal-9m-qK7.text" = "Тағам қанша уакытта\nдайын болу керек?\n";
+
+/* Class = "UITextView"; text = "description"; ObjectID = "Ivg-Yq-jNp"; */
+"Ivg-Yq-jNp.text" = "сипаты";
+
+/* Class = "UILabel"; text = "Medium"; ObjectID = "JGC-3Q-JVY"; */
+"JGC-3Q-JVY.text" = "Орташа";
+
+/* Class = "UIButton"; normalTitle = "type"; ObjectID = "JQZ-hT-JnR"; */
+"JQZ-hT-JnR.normalTitle" = "түрі";
+
+/* Class = "UILabel"; text = "PREP TIME"; ObjectID = "Kuq-DB-7dy"; */
+"Kuq-DB-7dy.text" = "Дайындалу уақыты";
+
+/* Class = "UILabel"; text = "RESTING TIME"; ObjectID = "L8v-uH-6pB"; */
+"L8v-uH-6pB.text" = "Күту уақыты";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "LBm-Jg-JFc"; */
+"LBm-Jg-JFc.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LD9-76-zQH"; */
+"LD9-76-zQH.text" = "Label";
+
+/* Class = "UITextView"; text = "Heat 1 Tbsp. oil in a large heavy pot or Dutch oven over medium. Add chorizo and cook, stirring occasionally, until browned and crisp, 2–3 minutes. Add onion, fennel, 5 garlic cloves, and 3 Tbsp. oil and cook, stirring often, until vegetables are softened but not browned, 8–10 minutes. Add tomatoes, red pepper, and 3/4 tsp. salt and cook, stirring, until warmed through, about 2 minutes longer.\nAdd wine and cook, stirring occasionally, just to burn off some of the alcohol, 1–2 minutes. Add mussels and beans and stir once or twice to incorporate. Cover pot and steam until all mussels are open, 3–5 minutes. Discard any that do not open. Stir in cilantro. Cut 1 lemon in half and squeeze in 1 Tbsp. lemon juice."; ObjectID = "LGR-bL-I8b"; */
+"LGR-bL-I8b.text" = "1 ас қасық жылу. үлкен салмалы ыдыста немесе голландтық пеште май. Хоризо қосып, 2-3 минут қызарғанша және қытырлақ болғанша араластырып араластырыңыз. Пияз, аскөк, 5 сарымсақ қалампыр және 3 ас қасық қосыңыз. май және пісіріңіз, көкөністер жұмсарғанша, бірақ қызармағанша, жиі араластырыңыз, 8-10 минут. Қызанақ, қызыл бұрыш және 3/4 шай қасық қосыңыз. тұз және пісіріңіз, араластыра отырып, қызғанға дейін, шамамен 2 минут.\n1-2 минут ішінде алкогольдің біраз бөлігін күйдіру үшін шарапты қосып, анда-санда араластырыңыз. Мидия мен бұршақты қосып, қосу үшін бір-екі рет араластырыңыз. Кәстрөл мен бумен жабыңыз, барлық мидия ашық болғанша, 3-5 минут. Ашылмағанын тастаңыз. Киндроны араластырыңыз. 1 лимонды екіге бөліп, 1 ас қасықтан лимон шырынын сығыңыз.";
+
+/* Class = "UILabel"; text = "1 hrs"; ObjectID = "LId-r7-oMW"; */
+"LId-r7-oMW.text" = "1 сағ";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "M5g-HH-I7y"; */
+"M5g-HH-I7y.text" = "*";
+
+/* Class = "UITextView"; text = "steps"; ObjectID = "MoN-Bq-c0q"; */
+"MoN-Bq-c0q.text" = "реті";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NJQ-rI-Dg1"; */
+"NJQ-rI-Dg1.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Profile settings"; ObjectID = "Npi-5d-0XO"; */
+"Npi-5d-0XO.title" = "Профиль параметрі";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nu0-PZ-AAi"; */
+"Nu0-PZ-AAi.text" = "Label";
+
+/* Class = "UILabel"; text = "BAKING:"; ObjectID = "O5c-NJ-SQM"; */
+"O5c-NJ-SQM.text" = "Дайындау:";
+
+/* Class = "UILabel"; text = "some long description"; ObjectID = "Ozu-sp-sJd"; */
+"Ozu-sp-sJd.text" = "some long description";
+
+/* Class = "UILabel"; text = "Pasta"; ObjectID = "RXf-6M-c88"; */
+"RXf-6M-c88.text" = "Паста";
+
+/* Class = "UILabel"; text = "Main"; ObjectID = "Rvl-9A-Ahj"; */
+"Rvl-9A-Ahj.text" = "Басты";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "RzW-Kh-m4F"; */
+"RzW-Kh-m4F.normalTitle" = "Профильді өзгерту";
+
+/* Class = "UILabel"; text = "Dessert"; ObjectID = "SIa-UU-fL5"; */
+"SIa-UU-fL5.text" = "Десерт";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "SLg-77-Arr"; */
+"SLg-77-Arr.placeholder" = "Аты";
+
+/* Class = "UILabel"; text = "Something's cooking! Let's add a few more details..."; ObjectID = "SUZ-JZ-ZxT"; */
+"SUZ-JZ-ZxT.text" = "Бірдеңе пісіп жатыр! Тағы бірнеше мәлімет қосайық...";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "T60-SZ-RJk"; */
+"T60-SZ-RJk.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UU9-ZC-6JG"; */
+"UU9-ZC-6JG.text" = "Label";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "UV2-Px-CN3"; */
+"UV2-Px-CN3.text" = "*";
+
+/* Class = "UISegmentedControl"; V3D-nM-xLc.segmentTitles[0] = "My Recipes"; ObjectID = "V3D-nM-xLc"; */
+"V3D-nM-xLc.segmentTitles[0]" = "Менің рецепттерім";
+
+/* Class = "UISegmentedControl"; V3D-nM-xLc.segmentTitles[1] = "Likes"; ObjectID = "V3D-nM-xLc"; */
+"V3D-nM-xLc.segmentTitles[1]" = "Лайктер";
+
+/* Class = "UISegmentedControl"; V3D-nM-xLc.segmentTitles[2] = "Saved"; ObjectID = "V3D-nM-xLc"; */
+"V3D-nM-xLc.segmentTitles[2]" = "Сақталған";
+
+/* Class = "UITabBarItem"; title = "Shopping List"; ObjectID = "Vhx-3t-ly8"; */
+"Vhx-3t-ly8.title" = "Сатып алу тізімі";
+
+/* Class = "UILabel"; text = "STEPS"; ObjectID = "WsZ-kp-74i"; */
+"WsZ-kp-74i.text" = "РЕТІ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z8O-j4-uTU"; */
+"Z8O-j4-uTU.text" = "Label";
+
+/* Class = "UILabel"; text = "INGREDIENT"; ObjectID = "ZSg-hi-7zc"; */
+"ZSg-hi-7zc.text" = "ИНГРЕДИЕНТ";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "aDP-jb-doB"; */
+"aDP-jb-doB.normalTitle" = "0";
+
+/* Class = "UIButton"; normalTitle = "Add to Shopping List"; ObjectID = "aH2-zz-ZW3"; */
+"aH2-zz-ZW3.normalTitle" = "Сатып алу тізіміне қосу";
+
+/* Class = "UILabel"; text = "PORTION TYPE"; ObjectID = "aS4-dN-XFF"; */
+"aS4-dN-XFF.text" = "Порция түрі";
+
+/* Class = "UILabel"; text = "Mussel with Rum"; ObjectID = "ayN-oq-kAt"; */
+"ayN-oq-kAt.text" = "Рома қосылған мидия";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "b3s-SO-WbJ"; */
+"b3s-SO-WbJ.placeholder" = "Фамилия";
+
+/* Class = "UILabel"; text = "A recipe would be nothing without the ingredients! What goes in your dish?"; ObjectID = "b7d-5B-etT"; */
+"b7d-5B-etT.text" = "Ингредиенттерсіз рецепт ештеңе болмайды! Сіздің тағамыңызда не бар?";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "bco-t3-pOK"; */
+"bco-t3-pOK.normalTitle" = "Кіру";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "cVf-FA-mtH"; */
+"cVf-FA-mtH.text" = "Іздеу";
+
+/* Class = "UITextView"; text = "Topping fried bread with brothy mussels, beans, and tomatoes turns it into a hearty knife-and-fork dinner. It's a truly satisfying mussels recipe that uses just a little bit of highly-flavorful Spanish chorizo for deep flavor."; ObjectID = "d1l-oc-7hB"; */
+"d1l-oc-7hB.text" = "Қуырылған нанды сүтті мидиямен, үрме бұршақпен және қызанақпен құю оны пышақ пен шанышқымен кешкі асқа айналдырады. Бұл өте дәмді мидия рецепті, ол терең хош иістендіруге аздап жоғары дәмді испан хоризосын қолданады.";
+
+/* Class = "UIButton"; normalTitle = "Hard💪"; ObjectID = "dm1-wd-Dra"; */
+"dm1-wd-Dra.normalTitle" = "Қиын💪";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eIs-KZ-84O"; */
+"eIs-KZ-84O.text" = "Label";
+
+/* Class = "UILabel"; text = "We're excited to see your recipe! Let's start with the basics..."; ObjectID = "eYD-u3-Ghz"; */
+"eYD-u3-Ghz.text" = "Сіздің рецептіңізді көргенімізге қуаныштымыз! Бастайық...";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "f0P-zE-4aI"; */
+"f0P-zE-4aI.text" = "Country";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "fRw-3L-1sJ"; */
+"fRw-3L-1sJ.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fXd-xd-jfk"; */
+"fXd-xd-jfk.text" = "Label";
+
+/* Class = "UILabel"; text = "Xueci Cheng"; ObjectID = "fmS-be-RdN"; */
+"fmS-be-RdN.text" = "Шуи Ченг";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "gJG-ww-uFO"; */
+"gJG-ww-uFO.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "gTi-Wl-TuC"; */
+"gTi-Wl-TuC.text" = "Профиль";
+
+/* Class = "UILabel"; text = "Save"; ObjectID = "h5p-xj-K0k"; */
+"h5p-xj-K0k.text" = "Сақтау";
+
+/* Class = "UILabel"; text = "Does the dish need to rest at any\npoint? E.g. marinating, chilling,\nrising time...\n"; ObjectID = "htB-iB-ojN"; */
+"htB-iB-ojN.text" = "Тағам кез-келген уақытта демалуы\nкерек пе? Мысалы. маринадтау, \nсалқындату,...\n";
+
+/* Class = "UILabel"; text = "DIFFICULTY"; ObjectID = "hvX-ph-hGb"; */
+"hvX-ph-hGb.text" = "ҚИЫНДЫҒЫ";
+
+/* Class = "UIButton"; normalTitle = "Next→"; ObjectID = "io4-nL-HRr"; */
+"io4-nL-HRr.normalTitle" = "Келесі→";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "jUs-cS-jqD"; */
+"jUs-cS-jqD.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "BAKING TIME"; ObjectID = "jXW-wa-unz"; */
+"jXW-wa-unz.text" = "ӘЗІРЛЕУ УАҚЫТЫ";
+
+/* Class = "UILabel"; text = "Meatless"; ObjectID = "jbf-om-tr1"; */
+"jbf-om-tr1.text" = "Етсіз";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jku-UN-1Ry"; */
+"jku-UN-1Ry.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Product name"; ObjectID = "jtE-P9-vph"; */
+"jtE-P9-vph.title" = "тағам аты";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kNq-mz-rpi"; */
+"kNq-mz-rpi.text" = "Label";
+
+/* Class = "UILabel"; text = "Mussels, soaked, scrubbed"; ObjectID = "lHo-9X-tv5"; */
+"lHo-9X-tv5.text" = "Мидия, сіңдірілген, скраб";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "lNm-dc-EGB"; */
+"lNm-dc-EGB.placeholder" = "Аты";
+
+/* Class = "UILabel"; text = "Pirate ship captain and Cheif at Kitchen Stories"; ObjectID = "lqA-bx-mkQ"; */
+"lqA-bx-mkQ.text" = "Pirate ship captain and Cheif at Kitchen Stories";
+
+/* Class = "UIButton"; normalTitle = "Sign out"; ObjectID = "mAE-IV-ENk"; */
+"mAE-IV-ENk.normalTitle" = "Шығу";
+
+/* Class = "UILabel"; text = "PROFILE"; ObjectID = "mph-V5-mm2"; */
+"mph-V5-mm2.text" = "ПРОФИЛЬ";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "nW9-Xh-MPd"; */
+"nW9-Xh-MPd.text" = "Фамилия";
+
+/* Class = "UIButton"; normalTitle = "type"; ObjectID = "omY-I8-Jyv"; */
+"omY-I8-Jyv.normalTitle" = "түрі";
+
+/* Class = "UIButton"; normalTitle = "UPLOAD NEW PICTURE"; ObjectID = "oxU-EF-Tdh"; */
+"oxU-EF-Tdh.normalTitle" = "Жаңа сурет жүктеу";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "pHq-8Q-kkX"; */
+"pHq-8Q-kkX.text" = "*";
+
+/* Class = "UILabel"; text = "STEPS"; ObjectID = "pNj-3r-twc"; */
+"pNj-3r-twc.text" = "Реті";
+
+/* Class = "UIButton"; normalTitle = "Next→"; ObjectID = "pb8-D4-3Lw"; */
+"pb8-D4-3Lw.normalTitle" = "Келесі→";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "pbb-sh-aaP"; */
+"pbb-sh-aaP.normalTitle" = "Келесі";
+
+/* Class = "UIButton"; normalTitle = "Add Ingredient"; ObjectID = "pja-G0-f4p"; */
+"pja-G0-f4p.normalTitle" = "Ингредиент қосу";
+
+/* Class = "UIButton"; normalTitle = "type"; ObjectID = "q9p-cz-SZh"; */
+"q9p-cz-SZh.normalTitle" = "түрі";
+
+/* Class = "UITextField"; placeholder = "Add ingredient, e.g. flour"; ObjectID = "qPB-g7-JVR"; */
+"qPB-g7-JVR.placeholder" = "Ингредиент қосыңыз, мысалы ұн";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "qiR-p2-Z9O"; */
+"qiR-p2-Z9O.title" = "Басты";
+
+/* Class = "UILabel"; text = "Spring Herbs"; ObjectID = "rqe-sb-TFV"; */
+"rqe-sb-TFV.text" = "Көктемгі шөптер";
+
+/* Class = "UILabel"; text = "1 hrs"; ObjectID = "s01-C5-gec"; */
+"s01-C5-gec.text" = "1 сағ";
+
+/* Class = "UILabel"; text = "Capitan Jack Sparrow"; ObjectID = "ska-Ay-efu"; */
+"ska-Ay-efu.text" = "Capitan Jack Sparrow";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "swU-68-5Qz"; */
+"swU-68-5Qz.normalTitle" = "Сақтау";
+
+/* Class = "UILabel"; text = "Our Latest Recipes"; ObjectID = "t04-59-tVa"; */
+"t04-59-tVa.text" = "Біздің соңғы рецепттер";
+
+/* Class = "UILabel"; text = "Some text"; ObjectID = "t8q-Cl-ee9"; */
+"t8q-Cl-ee9.text" = "Some text";
+
+/* Class = "UILabel"; text = "ADD SOME DESCRIPTION"; ObjectID = "tiU-qk-j6b"; */
+"tiU-qk-j6b.text" = "СИПАТТАМАСЫ";
+
+/* Class = "UINavigationItem"; title = "Create New Recipe"; ObjectID = "u3l-Xm-Szb"; */
+"u3l-Xm-Szb.title" = "Жаңа рецепт ашу";
+
+/* Class = "UISearchBar"; placeholder = "Hungry?"; ObjectID = "u7i-bQ-AC6"; */
+"u7i-bQ-AC6.placeholder" = "Қарның аш па?";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "ui5-dd-ju8"; */
+"ui5-dd-ju8.normalTitle" = "Кіру";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "uxy-Ar-MMd"; */
+"uxy-Ar-MMd.text" = "City";
+
+/* Class = "UILabel"; text = "NAME YOUR RECIPE"; ObjectID = "vCK-0u-8eu"; */
+"vCK-0u-8eu.text" = "РЕЦЕПТТІҢ АТЫ";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "vhW-Of-7h5"; */
+"vhW-Of-7h5.text" = "Профиль";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vwg-1Z-1nE"; */
+"vwg-1Z-1nE.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "weD-dy-iSb"; */
+"weD-dy-iSb.placeholder" = "Фамилия";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "wrR-B9-Oj6"; */
+"wrR-B9-Oj6.normalTitle" = "САҚТАУ";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "wsu-NA-MHE"; */
+"wsu-NA-MHE.title" = "Іздеу";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "x8d-68-tgt"; */
+"x8d-68-tgt.text" = "*";
+
+/* Class = "UILabel"; text = "INGREDIENTS"; ObjectID = "xJJ-iD-uhE"; */
+"xJJ-iD-uhE.text" = "Ингредиенттер";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "y3f-R8-Zes"; */
+"y3f-R8-Zes.placeholder" = "Email";
+
+/* Class = "UILabel"; text = " To discover all our tastebud tickling recipes and features,               please sign up!"; ObjectID = "y7S-U2-Wy6"; */
+"y7S-U2-Wy6.text" = " Біздің барлық талғамды сезгіңіз
+    келсе,                тезірек тіркеліңіз!";
+
+/* Class = "UILabel"; text = "Community"; ObjectID = "yBn-5V-9WD"; */
+"yBn-5V-9WD.text" = "Қоғам";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "yfp-RK-wqY"; */
+"yfp-RK-wqY.normalTitle" = "Тіркелу";
+
+/* Class = "UILabel"; text = "ADD A RECIPE PHOTO"; ObjectID = "yie-4g-PtF"; */
+"yie-4g-PtF.text" = "Рецепттің суретін қосыңыз";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "ylT-eO-ny4"; */
+"ylT-eO-ny4.text" = "Профиль";
+
+/* Class = "UITextField"; placeholder = "E.g Grandma's apple pie"; ObjectID = "yt2-Pw-ZVV"; */
+"yt2-Pw-ZVV.placeholder" = "Мысалы, әжемнің тәтті бауырсағы";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "z72-Ng-8S3"; */
+"z72-Ng-8S3.title" = "Item";
+
+/* Class = "UILabel"; text = "Choose between servings( a flling\nportion for one person) or pieces\n(e.g. slice of cake).\n"; ObjectID = "znJ-cE-YDd"; */
+"znJ-cE-YDd.text" = "Порцияның біреуін таңдаңыз( толық\nпорция бір адам үшін) немесе  бөлшекпен\n(мысалы, торттың бөлшегі).\n";
+
+/* Class = "UILabel"; text = "How much time do you actively\nspend making the dish?\n"; ObjectID = "ztG-CQ-IbD"; */
+"ztG-CQ-IbD.text" = "Тағам әзірлеуге қанша\nуақыт жұмсайсыз?\n";

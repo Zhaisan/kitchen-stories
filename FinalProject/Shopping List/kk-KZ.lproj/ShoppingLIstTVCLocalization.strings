@@ -1,0 +1,20 @@
+/* 
+  ShoppingLIstTVCLocalization.strings
+  FinalProject
+
+  Created by Zhaisan on 31.05.2021.
+  
+*/
+"Pancake" = "Құймақ";
+"Meal with salmon and zucchini" = "Лосось қосылған тағам";
+"ingredients missing" = "қолданылған рецепттер";
+"egg" = "жұмыртқа";
+"milk" = "сүт";
+"sugar" = "қант";
+"salt" = "тұз";
+"flour" = "ұн";
+"salmon" = "лосось";
+"salt" = "тұз";
+"wine" = "вино";
+
+
